@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054720669690",
+    "project_id": "greencart2002",
+    "storage_bucket": "greencart2002.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054720669690:android:c94a1939fc0bc428c55643",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2M2HrCFdSf0Cf9TEyOq0s4vcmL8tdw94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
